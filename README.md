@@ -138,6 +138,10 @@ The things the grading code is looking for are:
 
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
 
+## Output Screenshot
+
+![Screenshot](Capture.png)
+
 
 
 
