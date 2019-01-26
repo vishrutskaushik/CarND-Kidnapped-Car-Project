@@ -140,7 +140,7 @@ The things the grading code is looking for are:
 
 ## Output Screenshot
 
-![Screenshot](Capture.png)
+![Screenshot](Capture.PNG)
 
 
 
